@@ -9,7 +9,7 @@
 
     <div class="container">
       <div class="row">
-        <div class="form col-md-6">
+        <div class="form"  >
           <ul class="list-group">
             <li class="list-group-item">
               <h2>
@@ -23,16 +23,13 @@
                 <br>
               </h2>
             </li>
-            <li class="list-group-item">
+            <!-- <li class="list-group-item">
               <h2>
                 <span>id: </span><span>{{ user.id }}</span>
                 <br>
               </h2>
-            </li>
+            </li> -->
           </ul>
-        </div>
-        <div class="col-md-6">
-            <img src="" alt="">
         </div>
       </div>
     </div>
